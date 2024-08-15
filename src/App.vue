@@ -103,6 +103,7 @@ function printBarcodes() {
     .region, .category, .department {
         font-size: 48px; /* Larger font size */
         font-weight: bold; /* Bold text */
+        font-family: sans-serif;
         text-transform: uppercase; /* Uppercase text */
         margin: 10px 0; /* Spacing between lines */
     }
