@@ -95,7 +95,7 @@ function printBarcodes() {
 
     /* Style the SVG to take up as much space as possible while maintaining aspect ratio */
     svg {
-        width: 60%; /* Adjust the width as needed */
+        width: 80%; /* Adjust the width as needed */
         height: auto; /* Maintain aspect ratio */
     }
 
