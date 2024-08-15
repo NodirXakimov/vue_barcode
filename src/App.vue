@@ -16,7 +16,7 @@ import JsBarcode from 'jsbarcode';
 
 // Data for testing
 const items = ref([
-    { barcode: 'Dobby_23', regionName: 'Bosh Prokuratura', categoryName: 'Qul', departmentName: '23-bo\'lim' },
+    { barcode: 'barcode_2345', regionName: 'Bosh Prokuratura', categoryName: 'Printer', departmentName: '15-bo\'lim' },
     { barcode: '987654321098', regionName: 'Samarqand v. Prokuraturasi', categoryName: 'Skanner' },
     { barcode: '112233445566', regionName: 'Buxoro v. Kogon t. Prokuraturasi', categoryName: 'Kompyuter' },
     { barcode: '556677889900', regionName: 'Harbiy Prokuratura', categoryName: 'Faks Aparat' },
